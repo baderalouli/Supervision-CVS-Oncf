@@ -1,0 +1,12 @@
+simulation:
+  interval: 1
+  input_voltage: 3000.0
+  output_voltage: 400.0
+
+storage:
+  data_file: "data/cvs_data.csv"
+  alarm_file: "data/alarms.csv"
+
+system:
+  name: "CVS Monitoring System"
+  version: "1.0.0"

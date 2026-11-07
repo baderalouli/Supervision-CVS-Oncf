@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Base de données locale
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+
+# Éditeur / système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Rapport de stage (document interne ONCF : ne pas publier sans autorisation)
+*.pdf
+*.docx

@@ -1,0 +1,25 @@
+temperature:
+  warning: 60.0
+  critical: 75.0
+
+current:
+  warning: 100.0
+  critical: 120.0
+
+voltage:
+  warning_min: 2850.0
+  warning_max: 3150.0
+  critical_min: 2750.0
+  critical_max: 3250.0
+
+vibration:
+  warning: 3.0
+  critical: 5.0
+
+battery:
+  warning: 30.0
+  critical: 15.0
+
+efficiency:
+  warning: 90.0
+  critical: 85.0
